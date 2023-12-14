@@ -1,0 +1,202 @@
+[
+    {
+        "question": "How many days are in the month of October?",
+        "optionA": "10 days",
+        "optionB": "14 days",
+        "optionC": "5 days",
+        "optionD": "31 days",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "How many players are on a Baseball team?",
+        "optionA": "10 players",
+        "optionB": "11 players",
+        "optionC": "9 players",
+        "optionD": "12 players",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "Who was the first President of USA?",
+        "optionA": "Jamie Gorrell",
+        "optionB": "Mark McGuire",
+        "optionC": "Tony Gwinn",
+        "optionD": "George Washington",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "30 days has ______ ?",
+        "optionA": "January",
+        "optionB": "December",
+        "optionC": "June",
+        "optionD": "August",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "How many hours can be found in a day?",
+        "optionA": "30 hours",
+        "optionB": "38 hours",
+        "optionC": "48 hours",
+        "optionD": "24 hours",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "Which is the longest river in the world?",
+        "optionA": "River Nile",
+        "optionB": "Long River",
+        "optionC": "River Niger",
+        "optionD": "Lake Chad",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "_____ is the coldest Continent on Earth?",
+        "optionA": "Oceania",
+        "optionB": "Antarctica",
+        "optionC": "Africa",
+        "optionD": "North America",
+        "correctOption": "optionB"
+    },
+    {
+        "question": "What country is the largest?",
+        "optionA": "Russia",
+        "optionB": "Canada",
+        "optionC": "Africa",
+        "optionD": "Egypt",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "Which of these numbers is an even number?",
+        "optionA": "1",
+        "optionB": "5",
+        "optionC": "7",
+        "optionD": "8",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "\"You Can't see me\" is a popular saying by",
+        "optionA": "Eminem",
+        "optionB": "Jamie G.",
+        "optionC": "Kenny I.",
+        "optionD": "John Cena",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "Where is the world's tallest building located?",
+        "optionA": "Atlantis",
+        "optionB": "California",
+        "optionC": "Dubai",
+        "optionD": "Iowa",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "The longest river in the United Kingdom is?",
+        "optionA": "River Severn",
+        "optionB": "River Mersey",
+        "optionC": "River Trent",
+        "optionD": "River Tweed",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "How many permanent teeth does a dog have?",
+        "optionA": "38",
+        "optionB": "42",
+        "optionC": "40",
+        "optionD": "36",
+        "correctOption": "optionB"
+    },
+    {
+        "question": "Which baseball team won the World Series in 2023?",
+        "optionA": "Twins",
+        "optionB": "Braves",
+        "optionC": "Yankees",
+        "optionD": "Rangers",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "Which US state was Donald Trump born?",
+        "optionA": "New York",
+        "optionB": "California",
+        "optionC": "New Jersey",
+        "optionD": "Los Angeles",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "How many states does the USA have?",
+        "optionA": "48",
+        "optionB": "30",
+        "optionC": "50",
+        "optionD": "37",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "____ is the capital of New York?",
+        "optionA": "Albany",
+        "optionB": "Lagos",
+        "optionC": "Calabar",
+        "optionD": "Kano",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "Los Angeles is also known as?",
+        "optionA": "Angels City",
+        "optionB": "Shining city",
+        "optionC": "City of Angels",
+        "optionD": "Lost Angels",
+        "correctOption": "optionC"
+    },
+    {
+        "question": "What is the capital of Iowa?",
+        "optionA": "Georgia",
+        "optionB": "Missouri",
+        "optionC": "Oklahoma",
+        "optionD": "Des Moines",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "How many sides does an octagon have?",
+        "optionA": "8",
+        "optionB": "7",
+        "optionC": "6",
+        "optionD": "5",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "How many planets are currently in the solar system?",
+        "optionA": "Eleven",
+        "optionB": "Seven",
+        "optionC": "Nine",
+        "optionD": "Eight",
+        "correctOption": "optionD"
+    },
+    {
+        "question": "Which planet are we currently on?",
+        "optionA": "Jupiter",
+        "optionB": "Mercury",
+        "optionC": "Earth",
+        "optionD": "Venus",
+        "correctOption": "optionB"
+    },
+    {
+        "question": "Where is the smallest bone in the human body located?",
+        "optionA": "Toes",
+        "optionB": "Ears",
+        "optionC": "Fingers",
+        "optionD": "Nose",
+        "correctOption": "optionB"
+    },
+    {
+        "question": "How many hearts does a human have?",
+        "optionA": "One",
+        "optionB": "Two",
+        "optionC": "Three",
+        "optionD": "Four",
+        "correctOption": "optionA"
+    },
+    {
+        "question": "How many teeth does an adult human have?",
+        "optionA": "8",
+        "optionB": "3",
+        "optionC": "32",
+        "optionD": "6",
+        "correctOption": "optionC"
+    }
+]
